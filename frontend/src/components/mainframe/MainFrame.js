@@ -5,14 +5,13 @@ const Example = () => {
   return (
     <Media>
       <Media left href="#">
-        <Media object data-src="holder.js/64x64" alt="Generic placeholder image" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFobzudTpxvFeXG1E6sy-SvZswxqhf53rlDoXG3KTJU_NZWPzU9g" alt=""/>
       </Media>
       <Media body>
         <Media heading>
-          Media heading
+          To kill a Mocking Bird, Harper Lee
         </Media>
-        Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
-      </Media>
+          To Kill a Mockingbird is primarily a novel about growing up under extraordinary circumstances in the 1930s in the Southern United States. The story covers a span of three years, during which the main characters undergo significant changes. Scout Finch lives with her brother Jem and their father Atticus in the fictitious town of Maycomb, Alabama.       </Media>
     </Media>
   );
 };
